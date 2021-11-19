@@ -58,6 +58,12 @@ sortedListM=sorted(ListM)
 # del sortedListM[1]
 print(sortedListM)
 
+
+
+# Paste the graph off of google
+
+
+
 # for x in range (0,count*2):
 #     y.append(x)
 #
